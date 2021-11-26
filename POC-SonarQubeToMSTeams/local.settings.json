@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+
+    "TeamsWebhookUrl": "--YOUR MS TEAMS WEBHOOK URL HERE FOR LOCAL DEVELOPMENT --",
+    "SonarqubeWebhookSecret": "-- YOUR SONARQUBE WEBHOOK SECRET HERE --",
+    "DisableAuthentication": "true",
+    "Culture": "pt-BR"
+  }
+}
