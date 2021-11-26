@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POC-SonarQubeToMSTeams", "POC-SonarQubeToMSTeams\POC-SonarQubeToMSTeams.csproj", "{AB02DB6C-4D05-453E-A685-EA792302EA22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB02DB6C-4D05-453E-A685-EA792302EA22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB02DB6C-4D05-453E-A685-EA792302EA22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB02DB6C-4D05-453E-A685-EA792302EA22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB02DB6C-4D05-453E-A685-EA792302EA22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8D04020-D46A-4A8B-A46D-5306E1893D43}
+	EndGlobalSection
+EndGlobal
