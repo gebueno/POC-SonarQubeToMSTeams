@@ -13,7 +13,6 @@ namespace POC_SonarQubeToMSTeams
             builder.Services.AddHttpClient();
 
             builder.Services.AddSingleton<ISonarqubeToMSTeamsConverter, SonarqubeToMSTeamsConverter>();
-            builder.Services.AddSingleton<ISonarqubeToMSTeamsFilter, SonarqubeToMSTeamsFilter>();
 
         }
     }
