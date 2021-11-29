@@ -85,7 +85,7 @@ Dessa forma, optamos por disponibilizar um botão que quando clicado, o usuário
 ### Passo a passo para a conclusão da integração:
 
 1. Clonar o projeto;
-2. [Definir o formato](https://amdesigner.azurewebsites.net/) da mensagem bem como as infos que serão apresentadas no canal do MS Teams e realizar as alterações no código;
+2. [Definir o formato visual](https://amdesigner.azurewebsites.net/) da mensagem bem como as infos que serão apresentadas no canal do MS Teams e realizar as alterações no código;
 3. Realizar o Deploy do projeto;
 4. Criar um [Incoming Webhook](https://docs.microsoft.com/en-us/microsoftteams/platform/webhooks-and-connectors/how-to/add-incoming-webhook)  no MS Teams e inserir o respectivo link fornecido no projeto;
 5. [Configurar um Webhook](https://docs.sonarqube.org/latest/project-administration/webhooks/) no SonarQube utilizando o endpoint do recurso de Azure Function criado.
